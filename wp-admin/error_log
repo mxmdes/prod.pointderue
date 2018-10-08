@@ -1,0 +1,10 @@
+[27-Jul-2018 14:10:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:01 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:07 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:13 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:13 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[27-Jul-2018 14:10:14 UTC] PHP Warning:  sprintf(): Too few arguments in /home/mxmdes/public_html/prod/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jul-2018 21:35:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mxmdes/public_html/prod/wp-content/plugins/cimol_plugin/widgets/gallery.php on line 398
+[30-Jul-2018 21:36:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mxmdes/public_html/prod/wp-content/plugins/cimol_plugin/widgets/gallery.php on line 398
