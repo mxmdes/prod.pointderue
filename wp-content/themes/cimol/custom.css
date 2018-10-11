@@ -1,7 +1,25 @@
 @charset "UTF-8";
-.box-mobile .hamburger .hamburger__icon{
-	color: #000000!important;
+/* Aligns the active hamburger icon with the inactive one */
+.hamburger.active{
+	right: 10px;
+	top: 96px!important;
 }
+
+/* Hides anything */
 .hide-this{
 	display: none!important;
+}
+
+/* Hides the spinner from the loading page */
+.spinner {
+	display: none!important;	
+}
+
+/* Hide posted time on donations page */
+.post-1230 .post-detail{
+	display:none;
+}
+
+.page-id-1257 .give-amount-top{
+	width: 97%;
 }
