@@ -13,3 +13,10 @@ endif;
 add_action( 'wp_enqueue_scripts', 'chld_thm_cfg_parent_css', 10 );
 
 // END ENQUEUE PARENT ACTION
+// Enqueue custom css
+function wpse87681_enqueue_custom_stylesheets() {
+    if ( ! is_admin() ) {
+        wp_enqueue_style( 'mytheme-custom', get_template_directory_uri() . '/custom.css' );
+    }
+}
+add_action( 'wp_enqueue_scripts', 'wpse87681_enqueue_custom_stylesheets', 11 );
