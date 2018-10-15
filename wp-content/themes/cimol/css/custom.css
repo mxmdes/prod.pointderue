@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.box-mobile .hamburger .hamburger__icon{
+	color: #000000!important;
+}
+
+.hide-this{
+	display: none!important;
+}
